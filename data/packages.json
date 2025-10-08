@@ -1,0 +1,10 @@
+{
+    "version": "15.3.1",
+    "systems": {
+        "x86_64-linux": {
+            "url": "https://www.xmos.com/download/xm-014204-sm-13",
+            "hash": "sha256-a+Wq8vv7TELMIEBm8LMadNAeJYLt/Kcg3b0QRFoIuf8=",
+            "filename": "Tools-15---Linux-64_15_3_1.tgz"
+        }
+    }
+}
